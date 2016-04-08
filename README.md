@@ -1,5 +1,7 @@
 # Atom bootstrap
 
+[![Build Status](https://travis-ci.org/fs/atom-bootstrap.svg?branch=master)](https://travis-ci.org/fs/atom-bootstrap)
+
 Simple way to bootstrap [Atom](https://github.com/atom/atom) editor with your lovelly configuration settings and
 plugins.
 
