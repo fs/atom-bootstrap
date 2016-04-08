@@ -13,7 +13,7 @@ plugins.
 ## Configuration includes
 
 * Themes one-light-ui, solarized-light-syntax
-*
+* Plugins highlight-selected language-slim linter linter-ruby language-elixir advanced-open-file
 
 ## Setup
 
