@@ -8,7 +8,7 @@ plugins.
 * OSX
 * Homebrew with Cask
 
-## Configuration insludes
+## Configuration includes
 
 * Themes one-light-ui, solarized-light-syntax
 *
