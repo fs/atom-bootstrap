@@ -1,0 +1,12 @@
+os: osx
+osx_image: osx10.11
+
+before_script:
+  - brew update
+  - brew install shellcheck
+
+script:
+  - ci.sh
+
+notifications:
+  email: false
