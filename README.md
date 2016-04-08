@@ -18,7 +18,7 @@ plugins.
 ## Setup
 
 ```bash
-curl -fsSL https://raw.github.com/fs/atom-bootstrap/master/atom-osx.sh | sh
+curl -fsSL https://raw.github.com/fs/atom-bootstrap/master/bin/install | sh
 ```
 ## Credits
 

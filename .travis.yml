@@ -6,7 +6,7 @@ before_script:
   - brew install shellcheck
 
 script:
-  - ci.sh
+  - bin/ci
 
 notifications:
   email: false

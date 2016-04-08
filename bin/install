@@ -10,5 +10,5 @@ apm install highlight-selected language-slim linter linter-ruby language-elixir 
 
 # install configuration
 curl --silent --show-error --fail --location \
-    'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config.cson' \
+    'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config/config.cson' \
     --output "${ATOM_CONFIG_DIR}/config.cson"
