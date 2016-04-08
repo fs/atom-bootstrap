@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/fs/atom-bootstrap.svg?branch=master)](https://travis-ci.org/fs/atom-bootstrap)
 
-Simple way to bootstrap [Atom](https://github.com/atom/atom) editor with your lovelly configuration settings and
+Simple way to bootstrap [Atom](https://github.com/atom/atom) editor with your lovely configuration settings and
 plugins.
 
 ## Requirements
@@ -22,7 +22,7 @@ curl -fsSL https://raw.github.com/fs/atom-bootstrap/master/atom-osx.sh | sh
 ```
 ## Credits
 
-Sublime Bootstrap is maintained by [Timur Vafin](http://github.com/timurvafin).
+Atom Bootstrap is maintained by [Timur Vafin](http://github.com/timurvafin).
 It was written by [Flatstack](http://www.flatstack.com) with the help of our
 [contributors](http://github.com/fs/atom-bootstrap/contributors).
 
