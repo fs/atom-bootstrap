@@ -1,0 +1,13 @@
+"*":
+  core:
+    disabledPackages: ["welcome"]
+    projectHome: "~/src"
+    themes: [
+      "one-light-ui"
+      "solarized-light-syntax"
+    ]
+  "highlight-selected":
+    hideHighlightOnSelectedWord: true
+    highlightBackground: true
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
