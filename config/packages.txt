@@ -1,7 +1,0 @@
-advanced-open-file@0.14.3
-highlight-selected@0.11.2
-language-elixir@0.12.3
-language-slim@0.5.0
-linter@1.11.4
-linter-ruby@1.2.2
-

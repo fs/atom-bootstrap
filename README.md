@@ -13,7 +13,30 @@ plugins.
 ## Configuration includes
 
 * Themes one-light-ui, solarized-light-syntax
-* Plugins highlight-selected language-slim linter linter-ruby language-elixir advanced-open-file
+* Plugins:
+  * advanced-open-file
+  * atom-beautify
+  * atom-css-comb
+  * color-picker
+  * git-blame
+  * highlight-selected
+  * language-docker
+  * language-elixir
+  * language-haml
+  * language-rspec
+  * language-slim
+  * linter
+  * linter-coffeelint
+  * linter-haml
+  * linter-rubocop
+  * linter-ruby
+  * linter-scss-lint
+  * minimap
+  * ruby-test
+  * sorter
+  * toggle-quotes
+  * trailing-spaces
+
 
 ## Setup
 
