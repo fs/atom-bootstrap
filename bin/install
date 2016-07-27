@@ -1,5 +1,7 @@
 #!/bin/sh
 
+brew tap caskroom/cask
+
 ATOM_CONFIG_DIR="$HOME/.atom"
 
 # install atom
