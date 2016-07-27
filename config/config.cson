@@ -1,11 +1,31 @@
 "*":
   core:
-    disabledPackages: ["welcome"]
+    disabledPackages: [
+      "gramma-selector"
+      "image-view",
+      "language-c",
+      "language-clojure",
+      "language-csharp",
+      "language-go",
+      "language-haml"
+      "language-java",
+      "language-make",
+      "language-objective-c",
+      "language-perl",
+      "language-php",
+      "language-python",
+      "language-todo",
+      "language-toml",
+      "styleguide",
+      "welcome",
+    ]
     projectHome: "~/src"
     themes: [
       "one-light-ui"
       "solarized-light-syntax"
     ]
+  autosave:
+    enabled: true
   "highlight-selected":
     hideHighlightOnSelectedWord: true
     highlightBackground: true

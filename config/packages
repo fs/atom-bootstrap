@@ -6,12 +6,10 @@ git-blame
 highlight-selected
 language-docker
 language-elixir
-language-haml
 language-rspec
 language-slim
 linter
 linter-coffeelint
-linter-haml
 linter-rubocop
 linter-ruby
 linter-scss-lint
