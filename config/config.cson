@@ -26,6 +26,10 @@
     ]
   autosave:
     enabled: true
+  editor:
+    fontSize: 15
+    preferredLineLength: 120
+    showIndentGuide: true
   "highlight-selected":
     hideHighlightOnSelectedWord: true
     highlightBackground: true
