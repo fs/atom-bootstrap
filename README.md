@@ -42,7 +42,7 @@ curl -fsSL https://raw.github.com/fs/atom-bootstrap/master/bin/install | sh
 ```
 ## Credits
 
-Atom Bootstrap is maintained by [Timur Vafin](http://github.com/timurvafin).
+Atom Bootstrap is maintained by [Slava Kisel](https://github.com/slavakisel).
 It was written by [Flatstack](http://www.flatstack.com) with the help of our
 [contributors](http://github.com/fs/atom-bootstrap/contributors).
 
