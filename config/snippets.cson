@@ -1,0 +1,30 @@
+'.source.ruby':
+  'Interactor':
+    'prefix': 'inter'
+    'body': """
+      class ${1:DoSomething}
+        include Interactor
+
+        delegate :param, to: :context
+
+        def call
+          # code
+        end
+
+        private
+
+        def private_method
+          # code
+        end
+      end
+    """
+
+  'InteractorOrganizer':
+    'prefix': 'org'
+    'body': """
+      class ${1:DoSomething}
+        include Interactor::Organizer
+
+        organize First, Second
+      end
+    """
