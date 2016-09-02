@@ -12,6 +12,11 @@ curl --silent --show-error --fail --location \
     'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config/config.cson' \
     --output "${ATOM_CONFIG_DIR}/config.cson"
 
+# install snippets
+curl --silent --show-error --fail --location \
+    'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config/snippets.cson' \
+    --output "${ATOM_CONFIG_DIR}/snippets.cson"
+
 # install packages.txt
 curl --silent --show-error --fail --location \
     'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config/packages' \
