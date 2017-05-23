@@ -19,7 +19,7 @@ curl --silent --show-error --fail --location \
 
 # install packages.txt
 curl --silent --show-error --fail --location \
-    'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config/packages' \
-    --output "${ATOM_CONFIG_DIR}/packages"
+    'https://raw.githubusercontent.com/fs/atom-bootstrap/master/config/packages.txt' \
+    --output "${ATOM_CONFIG_DIR}/packages.txt"
 
-apm install --packages-file config/packages
+apm install --packages-file "${ATOM_CONFIG_DIR}/packages.txt"
